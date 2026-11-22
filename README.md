@@ -114,8 +114,6 @@ For major changes, please open an issue first to discuss what you’d like to ch
 ```
 This project is licensed under the MIT License.
 ```
-💡 Created by Govind Rajpurohit
-“Automating the way businesses read their documents.”
 
 ---
 
